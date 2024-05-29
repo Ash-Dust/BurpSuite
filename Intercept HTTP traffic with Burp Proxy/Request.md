@@ -1,16 +1,16 @@
 Upgrade-Insecure-Requests: 1
 
-## Scheme
+## Scheme: Protocol being used
 
-## HTTP Version
+## HTTP Version: Version of the Protocol being used
 
-## Method
+## Method: Action being perform. Ex: POST, GET, DELETE, PUT,...
 
-## Path
+## Path: 
 
-## Host
+## Host: The domain name of the server. localhost, www.google.com, www.example.com, etc.
 
-## Cookie
+## Cookie: Used to store HTTP cookies sent by the server
 
 ## Cache-Control
 
@@ -18,17 +18,17 @@ Upgrade-Insecure-Requests: 1
 
 ## Origin
 
+## User-Agent: Information about the originating request. Web browser, Version, Operation System.
+
 ## sec-ch-ua:
 
-## sec-ch-ua-mobile: 
+## sec-ch-ua-mobile: Indicate if the User A
 
 ## sec-ch-ua-platform: 
 
 ## Content-Type
 
-## User-Agent
-
-## Accept
+## Accept: Specifies the media type the are accepted for the response
 
 ## Sec-Fetch-Site
 
